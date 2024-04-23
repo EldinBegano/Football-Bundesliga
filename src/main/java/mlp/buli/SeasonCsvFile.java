@@ -14,7 +14,7 @@ public class SeasonCsvFile {
 
     public Season read() throws IOException {
         List<String> lines = Files.readAllLines(this.path);
-        lines.removeFirst();
+        lines.remove(0);
 
         Season season = new Season();
 

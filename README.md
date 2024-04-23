@@ -19,6 +19,15 @@
 ## 3. Ausgabe
 ![table](img/table.png)
 
+## 4. Verbesserung der README.md
+* Bei der Methode addMatchResults sollten die Parameter int points, int goalsShot, int goalsReceived mit gegeben werden.
+* Bei compareTo() vergleicht das Team mit einer anderen Mannschaft
+  Die Mannschaft mit der größeren Punktezahl liegt voran.
+  Bei Punktegleichheit liegt die Mannschaft mit dem besseren Torverhältnis voran.
+  Falls auch das Torverhältnis gleich ist, liegt die Mannschaft mit der größeren Anzahl an geschossenen Toren voran.
+* Kein Standard Konstruktor bei Match Klasse
+* 
+
 #
 > **Tip:** Falls es Fragen gibt schreib mir.
 #
