@@ -1,0 +1,42 @@
+@startuml
+
+class Match {
+- homeName: String
+- guestName: String
+- homeGoals: int
+- guestGoals: int
+--
++ Match()
++ Match(homeName, guestName, homeGoals, guestGoals)
++ getHomePoints(): int
++ getGuestPoints(): int
++ Getter und Setter
+}
+
+class Season {
+- teams: List<Team>
+--
++ Season()
++ addMatch(match)
++ findOrCreateTeam(name): Team
++ getTeamsSortedByRank(): List<Team>
+}
+class Team {
+* implements Comparable<Team>
+--
+- name: String
+- points: int
+- wins: int
+- draws: int
+- defeats: int
+- goalsShot: int
+- goalsReceived: int
+--
++ addMatchResults()
++ compareTo(team): int
++ Getter und Setter
++ getGoalDifference(): int
+}
+
+Team -> Match
+@enduml

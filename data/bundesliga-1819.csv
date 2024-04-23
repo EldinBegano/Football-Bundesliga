@@ -1,0 +1,307 @@
+Date;HomeTeam;GuestTeam;HomeGoals;GuestGoals
+24.08.18;Bayern Munich;HSV;3;1
+25.08.18;Fortuna Dusseldorf;FC Augsburg;1;2
+25.08.18;SC Freiburg;Eintracht Frankfurt;0;2
+25.08.18;Union Berlin;FC Nurnberg;1;0
+25.08.18;M'gladbach;Bayer Leverkusen;2;0
+25.08.18;Werder Bremen;Hannover;1;1
+25.08.18;Vfl Wolfsburg;Schalke 04;2;1
+26.08.18;Dortmund;RB Leipzig;4;1
+26.08.18;Mainz 04;Vfb Stuttgart;1;0
+31.08.18;Hannover;Dortmund;0;0
+01.09.18;FC Augsburg;M'gladbach;1;1
+01.09.18;Eintracht Frankfurt;Werder Bremen;1;2
+01.09.18;HSV;SC Freiburg;3;1
+01.09.18;Bayer Leverkusen;Vfl Wolfsburg;1;3
+01.09.18;FC Nurnberg;Mainz 04;1;1
+01.09.18;Vfb Stuttgart;Bayern Munich;0;3
+02.09.18;RB Leipzig;Fortuna Dusseldorf;1;1
+02.09.18;Schalke 04;Union Berlin;0;2
+14.09.18;Dortmund;Eintracht Frankfurt;3;1
+15.09.18;Bayern Munich;Bayer Leverkusen;3;1
+15.09.18;Fortuna Dusseldorf;HSV;2;1
+15.09.18;Mainz 04;FC Augsburg;2;1
+15.09.18;M'gladbach;Schalke 04;2;1
+15.09.18;RB Leipzig;Hannover;3;2
+15.09.18;Vfl Wolfsburg;Union Berlin;2;2
+16.09.18;SC Freiburg;Vfb Stuttgart;3;3
+16.09.18;Werder Bremen;FC Nurnberg;1;1
+21.09.18;Vfb Stuttgart;Fortuna Dusseldorf;0;0
+22.09.18;FC Augsburg;Werder Bremen;2;3
+22.09.18;Union Berlin;M'gladbach;4;2
+22.09.18;HSV;Dortmund;1;1
+22.09.18;FC Nurnberg;Hannover;2;0
+22.09.18;Schalke 04;Bayern Munich;0;2
+22.09.18;Vfl Wolfsburg;SC Freiburg;1;3
+23.09.18;Eintracht Frankfurt;RB Leipzig;1;1
+23.09.18;Bayer Leverkusen;Mainz 04;1;0
+25.09.18;Bayern Munich;FC Augsburg;1;1
+25.09.18;SC Freiburg;Schalke 04;1;0
+25.09.18;Hannover;HSV;1;3
+25.09.18;Werder Bremen;Union Berlin;3;4
+26.09.18;Dortmund;FC Nurnberg;7;0
+26.09.18;Fortuna Dusseldorf;Bayer Leverkusen;1;2
+26.09.18;Mainz 04;Vfl Wolfsburg;0;0
+26.09.18;M'gladbach;Eintracht Frankfurt;3;1
+26.09.18;RB Leipzig;Vfb Stuttgart;2;0
+28.09.18;Union Berlin;Bayern Munich;2;0
+29.09.18;HSV;RB Leipzig;1;2
+29.09.18;Bayer Leverkusen;Dortmund;2;4
+29.09.18;FC Nurnberg;Fortuna Dusseldorf;3;0
+29.09.18;Schalke 04;Mainz 04;1;0
+29.09.18;Vfb Stuttgart;Werder Bremen;2;1
+29.09.18;Vfl Wolfsburg;M'gladbach;2;2
+30.09.18;FC Augsburg;SC Freiburg;4;1
+30.09.18;Eintracht Frankfurt;Hannover;4;1
+05.10.18;Werder Bremen;Vfl Wolfsburg;2;0
+06.10.18;Bayern Munich;M'gladbach;0;3
+06.10.18;Dortmund;FC Augsburg;4;3
+06.10.18;Fortuna Dusseldorf;Schalke 04;0;2
+06.10.18;Hannover;Vfb Stuttgart;3;1
+06.10.18;Mainz 04;Union Berlin;0;5
+07.10.18;SC Freiburg;Bayer Leverkusen;0;0
+07.10.18;HSV;Eintracht Frankfurt;1;2
+07.10.18;RB Leipzig;FC Nurnberg;6;0
+19.10.18;Eintracht Frankfurt;Fortuna Dusseldorf;7;1
+20.10.18;FC Augsburg;RB Leipzig;0;0
+20.10.18;Bayer Leverkusen;Hannover;2;2
+20.10.18;FC Nurnberg;HSV;1;3
+20.10.18;Schalke 04;Werder Bremen;0;2
+20.10.18;Vfb Stuttgart;Dortmund;0;4
+20.10.18;Vfl Wolfsburg;Bayern Munich;1;3
+21.10.18;Union Berlin;SC Freiburg;1;1
+21.10.18;M'gladbach;Mainz 04;4;0
+26.10.18;SC Freiburg;M'gladbach;3;1
+27.10.18;Dortmund;Union Berlin;2;2
+27.10.18;Fortuna Dusseldorf;Vfl Wolfsburg;0;3
+27.10.18;Hannover;FC Augsburg;1;2
+27.10.18;HSV;Vfb Stuttgart;4;0
+27.10.18;Mainz 04;Bayern Munich;1;2
+28.10.18;FC Nurnberg;Eintracht Frankfurt;1;1
+28.10.18;RB Leipzig;Schalke 04;0;0
+28.10.18;Werder Bremen;Bayer Leverkusen;2;6
+02.11.18;Vfb Stuttgart;Eintracht Frankfurt;0;3
+03.11.18;FC Augsburg;FC Nurnberg;2;2
+03.11.18;Bayern Munich;SC Freiburg;1;1
+03.11.18;Union Berlin;RB Leipzig;0;3
+03.11.18;Bayer Leverkusen;HSV;1;4
+03.11.18;Schalke 04;Hannover;3;1
+03.11.18;Vfl Wolfsburg;Dortmund;0;1
+04.11.18;Mainz 04;Werder Bremen;2;1
+04.11.18;M'gladbach;Fortuna Dusseldorf;3;0
+09.11.18;Hannover;Vfl Wolfsburg;2;1
+10.11.18;Dortmund;Bayern Munich;3;2
+10.11.18;Fortuna Dusseldorf;Union Berlin;0;1
+10.11.18;SC Freiburg;Mainz 04;1;3
+10.11.18;HSV;FC Augsburg;2;1
+10.11.18;FC Nurnberg;Vfb Stuttgart;0;2
+10.11.18;Werder Bremen;M'gladbach;1;3
+11.11.18;Eintracht Frankfurt;Schalke 04;3;0
+11.11.18;RB Leipzig;Bayer Leverkusen;3;0
+23.11.18;Bayer Leverkusen;Vfb Stuttgart;2;0
+24.11.18;FC Augsburg;Eintracht Frankfurt;1;3
+24.11.18;Bayern Munich;Fortuna Dusseldorf;3;3
+24.11.18;Union Berlin;HSV;3;0
+24.11.18;Mainz 04;Dortmund;1;2
+24.11.18;Schalke 04;FC Nurnberg;5;2
+24.11.18;Vfl Wolfsburg;RB Leipzig;1;0
+25.11.18;SC Freiburg;Werder Bremen;1;1
+25.11.18;M'gladbach;Hannover;4;1
+30.11.18;Fortuna Dusseldorf;Mainz 04;0;1
+01.12.18;Dortmund;SC Freiburg;2;0
+01.12.18;Hannover;Union Berlin;0;2
+01.12.18;HSV;Schalke 04;1;1
+01.12.18;Vfb Stuttgart;FC Augsburg;1;0
+01.12.18;Werder Bremen;Bayern Munich;1;2
+02.12.18;Eintracht Frankfurt;Vfl Wolfsburg;1;2
+02.12.18;RB Leipzig;M'gladbach;2;0
+03.12.18;FC Nurnberg;Bayer Leverkusen;1;1
+07.12.18;Werder Bremen;Fortuna Dusseldorf;3;1
+08.12.18;Bayern Munich;FC Nurnberg;3;0
+08.12.18;SC Freiburg;RB Leipzig;3;0
+08.12.18;Union Berlin;Eintracht Frankfurt;1;0
+08.12.18;Bayer Leverkusen;FC Augsburg;1;0
+08.12.18;Schalke 04;Dortmund;1;2
+08.12.18;Vfl Wolfsburg;HSV;2;2
+09.12.18;Mainz 04;Hannover;1;1
+09.12.18;M'gladbach;Vfb Stuttgart;3;0
+14.12.18;FC Nurnberg;Vfl Wolfsburg;0;2
+15.12.18;FC Augsburg;Schalke 04;1;1
+15.12.18;Dortmund;Werder Bremen;2;1
+15.12.18;Fortuna Dusseldorf;SC Freiburg;2;0
+15.12.18;Hannover;Bayern Munich;0;4
+15.12.18;HSV;M'gladbach;0;0
+15.12.18;Vfb Stuttgart;Union Berlin;2;1
+16.12.18;Eintracht Frankfurt;Bayer Leverkusen;2;1
+16.12.18;RB Leipzig;Mainz 04;4;1
+18.12.18;Fortuna Dusseldorf;Dortmund;2;1
+18.12.18;Union Berlin;FC Augsburg;2;2
+18.12.18;M'gladbach;FC Nurnberg;2;0
+18.12.18;Vfl Wolfsburg;Vfb Stuttgart;2;0
+19.12.18;Bayern Munich;RB Leipzig;1;0
+19.12.18;SC Freiburg;Hannover;1;1
+19.12.18;Mainz 04;Eintracht Frankfurt;2;2
+19.12.18;Schalke 04;Bayer Leverkusen;1;2
+19.12.18;Werder Bremen;HSV;1;1
+21.12.18;Dortmund;M'gladbach;2;1
+22.12.18;Eintracht Frankfurt;Bayern Munich;0;3
+22.12.18;Hannover;Fortuna Dusseldorf;0;1
+22.12.18;Bayer Leverkusen;Union Berlin;3;1
+22.12.18;FC Nurnberg;SC Freiburg;0;1
+22.12.18;RB Leipzig;Werder Bremen;3;2
+22.12.18;Vfb Stuttgart;Schalke 04;1;3
+23.12.18;FC Augsburg;Vfl Wolfsburg;2;3
+23.12.18;HSV;Mainz 04;1;1
+18.01.19;HSV;Bayern Munich;1;3
+19.01.19;FC Augsburg;Fortuna Dusseldorf;1;2
+19.01.19;Eintracht Frankfurt;SC Freiburg;3;1
+19.01.19;Hannover;Werder Bremen;0;1
+19.01.19;Bayer Leverkusen;M'gladbach;0;1
+19.01.19;RB Leipzig;Dortmund;0;1
+19.01.19;Vfb Stuttgart;Mainz 04;2;3
+20.01.19;FC Nurnberg;Union Berlin;1;3
+20.01.19;Schalke 04;Vfl Wolfsburg;2;1
+25.01.19;Union Berlin;Schalke 04;2;2
+26.01.19;Dortmund;Hannover;5;1
+26.01.19;SC Freiburg;HSV;2;4
+26.01.19;Mainz 04;FC Nurnberg;2;1
+26.01.19;M'gladbach;FC Augsburg;2;0
+26.01.19;Werder Bremen;Eintracht Frankfurt;2;2
+26.01.19;Vfl Wolfsburg;Bayer Leverkusen;0;3
+27.01.19;Bayern Munich;Vfb Stuttgart;4;1
+27.01.19;Fortuna Dusseldorf;RB Leipzig;0;4
+01.02.19;Hannover;RB Leipzig;0;3
+02.02.19;Eintracht Frankfurt;Dortmund;1;1
+02.02.19;Union Berlin;Vfl Wolfsburg;0;1
+02.02.19;HSV;Fortuna Dusseldorf;1;1
+02.02.19;Bayer Leverkusen;Bayern Munich;3;1
+02.02.19;FC Nurnberg;Werder Bremen;1;1
+02.02.19;Schalke 04;M'gladbach;0;2
+03.02.19;FC Augsburg;Mainz 04;3;0
+03.02.19;Vfb Stuttgart;SC Freiburg;2;2
+08.02.19;Mainz 04;Bayer Leverkusen;1;5
+09.02.19;Bayern Munich;Schalke 04;3;1
+09.02.19;Dortmund;HSV;3;3
+09.02.19;SC Freiburg;Vfl Wolfsburg;3;3
+09.02.19;Hannover;FC Nurnberg;2;0
+09.02.19;M'gladbach;Union Berlin;0;3
+09.02.19;RB Leipzig;Eintracht Frankfurt;0;0
+10.02.19;Fortuna Dusseldorf;Vfb Stuttgart;3;0
+10.02.19;Werder Bremen;FC Augsburg;4;0
+15.02.19;FC Augsburg;Bayern Munich;2;3
+16.02.19;Union Berlin;Werder Bremen;1;1
+16.02.19;HSV;Hannover;3;0
+16.02.19;Schalke 04;SC Freiburg;0;0
+16.02.19;Vfb Stuttgart;RB Leipzig;1;3
+16.02.19;Vfl Wolfsburg;Mainz 04;3;0
+17.02.19;Eintracht Frankfurt;M'gladbach;1;1
+17.02.19;Bayer Leverkusen;Fortuna Dusseldorf;2;0
+18.02.19;FC Nurnberg;Dortmund;0;0
+22.02.19;Werder Bremen;Vfb Stuttgart;1;1
+23.02.19;Bayern Munich;Union Berlin;1;0
+23.02.19;Fortuna Dusseldorf;FC Nurnberg;2;1
+23.02.19;SC Freiburg;FC Augsburg;5;1
+23.02.19;Mainz 04;Schalke 04;3;0
+23.02.19;M'gladbach;Vfl Wolfsburg;0;3
+24.02.19;Dortmund;Bayer Leverkusen;3;2
+24.02.19;Hannover;Eintracht Frankfurt;0;3
+25.02.19;RB Leipzig;HSV;1;1
+01.03.19;FC Augsburg;Dortmund;2;1
+02.03.19;Eintracht Frankfurt;HSV;3;2
+02.03.19;Union Berlin;Mainz 04;2;1
+02.03.19;Bayer Leverkusen;SC Freiburg;2;0
+02.03.19;M'gladbach;Bayern Munich;1;5
+02.03.19;FC Nurnberg;RB Leipzig;0;1
+02.03.19;Schalke 04;Fortuna Dusseldorf;0;4
+03.03.19;Vfb Stuttgart;Hannover;5;1
+03.03.19;Vfl Wolfsburg;Werder Bremen;1;1
+08.03.19;Werder Bremen;Schalke 04;4;2
+09.03.19;Bayern Munich;Vfl Wolfsburg;6;0
+09.03.19;Dortmund;Vfb Stuttgart;3;1
+09.03.19;SC Freiburg;Union Berlin;2;1
+09.03.19;Mainz 04;M'gladbach;0;1
+09.03.19;RB Leipzig;FC Augsburg;0;0
+10.03.19;Hannover;Bayer Leverkusen;2;3
+10.03.19;HSV;FC Nurnberg;2;1
+11.03.19;Fortuna Dusseldorf;Eintracht Frankfurt;0;3
+15.03.19;M'gladbach;SC Freiburg;1;1
+16.03.19;FC Augsburg;Hannover;3;1
+16.03.19;Union Berlin;Dortmund;2;3
+16.03.19;Schalke 04;RB Leipzig;0;1
+16.03.19;Vfb Stuttgart;HSV;1;1
+16.03.19;Vfl Wolfsburg;Fortuna Dusseldorf;5;2
+17.03.19;Bayern Munich;Mainz 04;6;0
+17.03.19;Eintracht Frankfurt;FC Nurnberg;1;0
+17.03.19;Bayer Leverkusen;Werder Bremen;1;3
+29.03.19;HSV;Bayer Leverkusen;4;1
+30.03.19;Dortmund;Vfl Wolfsburg;2;0
+30.03.19;Fortuna Dusseldorf;M'gladbach;3;1
+30.03.19;SC Freiburg;Bayern Munich;1;1
+30.03.19;FC Nurnberg;FC Augsburg;3;0
+30.03.19;RB Leipzig;Union Berlin;5;0
+30.03.19;Werder Bremen;Mainz 04;3;1
+31.03.19;Eintracht Frankfurt;Vfb Stuttgart;3;0
+31.03.19;Hannover;Schalke 04;0;1
+05.04.19;Mainz 04;SC Freiburg;5;0
+06.04.19;Bayern Munich;Dortmund;5;0
+06.04.19;Union Berlin;Fortuna Dusseldorf;1;2
+06.04.19;Bayer Leverkusen;RB Leipzig;2;4
+06.04.19;Schalke 04;Eintracht Frankfurt;1;2
+06.04.19;Vfb Stuttgart;FC Nurnberg;1;1
+06.04.19;Vfl Wolfsburg;Hannover;3;1
+07.04.19;FC Augsburg;HSV;0;4
+07.04.19;M'gladbach;Werder Bremen;1;1
+12.04.19;FC Nurnberg;Schalke 04;1;1
+13.04.19;Dortmund;Mainz 04;2;1
+13.04.19;Hannover;M'gladbach;0;1
+13.04.19;RB Leipzig;Vfl Wolfsburg;2;0
+13.04.19;Vfb Stuttgart;Bayer Leverkusen;0;1
+13.04.19;Werder Bremen;SC Freiburg;2;1
+14.04.19;Eintracht Frankfurt;FC Augsburg;1;3
+14.04.19;Fortuna Dusseldorf;Bayern Munich;1;4
+14.04.19;HSV;Union Berlin;2;0
+20.04.19;FC Augsburg;Vfb Stuttgart;6;0
+20.04.19;Bayern Munich;Werder Bremen;1;0
+20.04.19;Bayer Leverkusen;FC Nurnberg;2;0
+20.04.19;Mainz 04;Fortuna Dusseldorf;3;1
+20.04.19;M'gladbach;RB Leipzig;1;2
+20.04.19;Schalke 04;HSV;2;5
+21.04.19;SC Freiburg;Dortmund;0;4
+21.04.19;Union Berlin;Hannover;0;0
+22.04.19;Vfl Wolfsburg;Eintracht Frankfurt;1;1
+26.04.19;FC Augsburg;Bayer Leverkusen;1;4
+27.04.19;Dortmund;Schalke 04;2;4
+27.04.19;Eintracht Frankfurt;Union Berlin;0;0
+27.04.19;Fortuna Dusseldorf;Werder Bremen;4;1
+27.04.19;Hannover;Mainz 04;1;0
+27.04.19;RB Leipzig;SC Freiburg;2;1
+27.04.19;Vfb Stuttgart;M'gladbach;1;0
+28.04.19;HSV;Vfl Wolfsburg;1;4
+28.04.19;FC Nurnberg;Bayern Munich;1;1
+03.05.19;Mainz 04;RB Leipzig;3;3
+04.05.19;Bayern Munich;Hannover;3;1
+04.05.19;Union Berlin;Vfb Stuttgart;3;1
+04.05.19;M'gladbach;HSV;2;2
+04.05.19;Werder Bremen;Dortmund;2;2
+04.05.19;Vfl Wolfsburg;FC Nurnberg;2;0
+05.05.19;SC Freiburg;Fortuna Dusseldorf;1;1
+05.05.19;Bayer Leverkusen;Eintracht Frankfurt;6;1
+05.05.19;Schalke 04;FC Augsburg;0;0
+11.05.19;FC Augsburg;Union Berlin;3;4
+11.05.19;Dortmund;Fortuna Dusseldorf;3;2
+11.05.19;Hannover;SC Freiburg;3;0
+11.05.19;HSV;Werder Bremen;0;1
+11.05.19;Bayer Leverkusen;Schalke 04;1;1
+11.05.19;FC Nurnberg;M'gladbach;0;4
+11.05.19;RB Leipzig;Bayern Munich;0;0
+11.05.19;Vfb Stuttgart;Vfl Wolfsburg;3;0
+12.05.19;Eintracht Frankfurt;Mainz 04;0;2
+18.05.19;Bayern Munich;Eintracht Frankfurt;5;1
+18.05.19;Fortuna Dusseldorf;Hannover;2;1
+18.05.19;SC Freiburg;FC Nurnberg;5;1
+18.05.19;Union Berlin;Bayer Leverkusen;7;5
+18.05.19;Mainz 04;HSV;4;2
+18.05.19;M'gladbach;Dortmund;0;2
+18.05.19;Schalke 04;Vfb Stuttgart;0;0
+18.05.19;Werder Bremen;RB Leipzig;2;1
+18.05.19;Vfl Wolfsburg;FC Augsburg;8;1
